@@ -10,8 +10,8 @@ svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf ar
 ```
 The letters stand for:<br/>
 **S**mall<br/>
-**V**erbose<br/>
-**G**rid used to generate initial points)<br/>
+**V**erbose (level 1)<br/>
+**G**rid used to generate initial points<br/>
 **A**dd point<br/>
 **R**elax<br/>
 **F**rame rendered to gif file<br/>
