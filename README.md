@@ -8,7 +8,8 @@ Here is a gif created by the project's test.gpergrossi.tools.VoronoiAnimationGen
 ```
 svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf
 ```
-(svg means **S**mall, **V**erbose, use a **G**rid to generate initial points)
+The letters stand for:<br/>
+(svg means **S**mall, **V**erbose, use a **G**rid to generate initial points)<br/>
 (arf means **A**dd point, **R**elax, render **F**rame)
 
 
