@@ -2,7 +2,7 @@
 
 This Java code creates 2D Voronoi diagrams including the traversable output graph of site polygons, edges, and vertices. Can be used for delauney triangulation as well.
 
-# In Action
+## In Action
 
 Here is a gif created by the project's VoronoiTest class using the input "svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf":
 
@@ -24,4 +24,4 @@ I will, of course, look at all pull requests and potentially include them. I wou
 ## License
 
 I am using the MIT license for this code. You may use the code as-is or modified in any project subject to the LICENSE.txt.
-You must include a copy of this license in the documentation of any project the uses a subtantial portion of my code.
+You must include a copy of this license in the documentation of any project that uses a subtantial portion of my code.
