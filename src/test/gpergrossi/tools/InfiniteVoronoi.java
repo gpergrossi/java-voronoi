@@ -35,7 +35,7 @@ public class InfiniteVoronoi extends View {
 	
 	@Override
 	protected double getMinZoom() {
-		return 0.25;
+		return 0.1;
 	}
 	
 	@Override
