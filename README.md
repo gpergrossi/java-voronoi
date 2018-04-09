@@ -33,13 +33,11 @@ The letters stand for:<br/>
       - enter to finish the diagram
 3. The test cases in test.gpergrossi.util use JUnit 5 (other versions will probably be fine too).
 
-## Code Quality Note
-
-I am using this code for my personal projects. I wrote all of it, but I did not clean it up for others to use.
+Look at the source code for VoronoiTestView to get an idea of how diagrams are constructed. Explore the voronoi classes for more information. Sorry this isn't documented yet! I am using this code for my personal projects. I wrote all of it (except the gif saver), but I did not clean it up for others to use.
 
 ## Pull Requests
 
-I will, of course, look at all pull requests and potentially include them. I would love to work toward making this code a reliable and useful tool to as many programmers as possible.
+If I get any I will - of course - look at them and potentially include them. I would love to work toward making this code a reliable and useful tool to as many programmers as possible. That said, I've seen other Fortune's algorithm implementations in java on github that are probably better than mine.
 
 ## License
 
