@@ -21,10 +21,11 @@ The letters stand for:<br/>
 ## Usage
 
 1. Download the source code
-2. Compile and run one of the following classes from test.pgergrossi.tools:
+2. Compile and run one of the following classes from test.gpergrossi.tools:
    - InfiniteVoronoi
       - scroll and pan with scroll wheel/middle click
    - VoronoiAnimationGenerator (seen above)
+      - instructions shown when running
    - VoronoiTestView 
       - left click in the pentagon to place points
       - right click to delete
