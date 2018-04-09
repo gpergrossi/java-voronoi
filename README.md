@@ -5,7 +5,10 @@ This Java code creates 2D Voronoi diagrams including the traversable output grap
 ## In Action
 
 Here is a gif created by the project's test.gpergrossi.tools.VoronoiAnimationGenerator class using the input 
-`svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf`
+```
+svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf
+```
+(arf means **A**dd input, **R**elax, render **F**rame)
 
 
 ![Animated Voronoi relaxation with points added per frame](./animation.gif)
