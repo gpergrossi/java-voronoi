@@ -9,8 +9,12 @@ Here is a gif created by the project's test.gpergrossi.tools.VoronoiAnimationGen
 svg f arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf arf
 ```
 The letters stand for:<br/>
-(svg means **S**mall, **V**erbose, use a **G**rid to generate initial points)<br/>
-(arf means **A**dd point, **R**elax, render **F**rame)
+**S**mall<br/>
+**V**erbose<br/>
+**G**rid used to generate initial points)<br/>
+**A**dd point<br/>
+**R**elax<br/>
+**F**rame rendered to gif file<br/>
 
 
 ![Animated Voronoi relaxation with points added per frame](./animation.gif)
