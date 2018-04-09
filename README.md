@@ -16,8 +16,21 @@ The letters stand for:<br/>
 **R**elax<br/>
 **F**rame rendered to gif file<br/>
 
-
 ![Animated Voronoi relaxation with points added per frame](./animation.gif)
+
+## Usage
+
+1. Download the source code
+2. Compile and run one of the following classes from test.pgergrossi.tools:
+   - InfiniteVoronoi
+      - scroll and pan with scroll wheel/middle click
+   - VoronoiAnimationGenerator (seen above)
+   - VoronoiTestView 
+      - left click in the pentagon to place points
+      - right click to delete
+      - space to step through the algorithm
+      - enter to finish the diagram
+3. The test cases in test.gpergrossi.util use JUnit 5 (other versions will probably be fine too).
 
 ## Code Quality Note
 
